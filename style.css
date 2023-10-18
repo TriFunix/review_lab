@@ -1,0 +1,12 @@
+.no2:hover {
+  color: red;
+}
+li {
+  float: left;
+  margin: 50px;
+}
+.no3 {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
